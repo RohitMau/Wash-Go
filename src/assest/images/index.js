@@ -1,0 +1,8 @@
+export const APPLOGO=require("../images/Applogo.png")
+export const bottom=require("../images/bottom.png")
+export const LoginBottom=require("../images/LoginBottom.png")
+export const logo=require("../images/logo.png")
+export const logopage=require("../images/logopage.png")
+export const right=require("../images/right.png")
+export const SighUpBottom=require("../images/SighUpBottom.png")
+export const top=require("../images/top.png")
